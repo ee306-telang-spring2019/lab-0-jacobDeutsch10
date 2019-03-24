@@ -2,3 +2,4 @@ Jacob Deutsch
 jad6387
 I like to workout and watch sports
 I am learning to use vi. 
+Just changed my .bashrc to set vi as editor. Test out with a commit to git
